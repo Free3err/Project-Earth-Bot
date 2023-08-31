@@ -1,5 +1,5 @@
 {
-    "token": "Your code",
+    "token": "Your token",
     "cfg": {
         "intents": [
             "MessageContent",
